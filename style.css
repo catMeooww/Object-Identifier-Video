@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border-radius: 20px;
+    border-style: ridge;
+    border-color: aliceblue;
+    box-shadow: 5px 5px 5px gray;
+}
+.heading{
+    margin-top: 0px;
+    width:100%;
+    font-size: 20px;
+}
+#copyright_footer{
+    z-index: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+}
